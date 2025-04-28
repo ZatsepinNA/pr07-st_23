@@ -17,7 +17,7 @@
 
 ## Как запустить:
 1. Установить PostgreSQL и настроить доступ к БД
-2. Запустить и выполнить ZNA.ipynb
+2. Запустить и выполнить Zatsepin_Nikita_Alekseevich.ipynb
 
 ## Необходимое ПО:
 1. PostgreSQL 9+ version
